@@ -24,10 +24,10 @@ int main(int argc, char *argv[ ])
         
     //Caso resultado = 1, é Happy Number   
     if(resultado == 1)    
-        printf("%d E um numero feliz", numero);    
+        printf("%d E um Happy Number", numero);    
     //Caso não seja happy number, o ciclo da função validateNumber vai conter o numero 4
     else if(resultado == 4)    
-        printf("%d Nao e um numero feliz \n", numero);     
+        printf("%d Nao e um Happy Number \n", numero);     
      
     return 0;    
 }
