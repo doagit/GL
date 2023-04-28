@@ -1,4 +1,4 @@
-# TESTES GLOBO
+# TEST
 O repositorio tem uma pasta por cada ponto da prova de C. Dentro dessas pastas, tem as siguintes:
 
   SRC: - Contem:
