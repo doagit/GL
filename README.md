@@ -2,12 +2,12 @@
 O repositorio tem uma pasta por cada ponto da prova de C. Dentro dessas pastas, tem as siguintes:
 
   SRC: - Contem:
-                Arquivo codigo fonte em C, com formato: test_nro.c (onde nro é o nro do ponto da prova de C),
+                Arquivo codigo fonte em C, com formato: teste_nro.c (onde nro é o nro do ponto da prova de C, ex: Happy Number = 1),
                 Arquivo exe (porque já foi compilado e gerado o arquivo), com formato: teste_nro.exe,
                 Arquivo shell script, para testes, com formato teste_ex_nro.sh.
                 
   OUTPUT - Contem:
-                  Arquivo de resultado de teste, com prints.
+                  Arquivo de resultado de teste, com os prints das saidas.
   
 Começando
 
@@ -20,12 +20,12 @@ Pré-requisitos
                 
 Instalação
         i) Download dos arquivos da pasta SRC,
-        ii) Ingresse na pasta onde fiz download dos arquivos, click com botão direito, "GitBash Here"
+        ii) Ingresse na pasta onde fez download dos arquivos, click com botão direito, "GitBash Here"
            ![image](https://user-images.githubusercontent.com/131888548/234986535-86f8da11-79cd-468f-b5cc-4ea03e4d71d9.png)
 
         iii) Escrever e executar o comando: gcc teste_nro.c -o teste_nro
         
-            ![image](https://user-images.githubusercontent.com/131888548/234987369-ee2550ac-fee3-4e1f-bd7c-acddb89573a9.png)
+            ![image](https://user-images.githubusercontent.com/131888548/235238045-56195a87-0e36-449d-9dfb-c09ba1d86d3f.png)
 
         iv) Essa execução vai gerar o arquivo .exe
         v) Fim
