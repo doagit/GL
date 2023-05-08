@@ -30,6 +30,12 @@ Instalação
         iv) Essa execução vai gerar o arquivo .exe
         v) Fim
 
+        Obs: Para o caso do Exercisio Teste_4 (DECODE URL) é preciso ter instalado a libreria regex. Para isso tem que executar:
+                a) Executar mingw64.exe e instalar os seguintes pacotes:
+                b) pacman -S mingw-w64-x86_64-toolchain
+                c) pacman -S mingw-w64-x86_64-libsystre
+                d) pacman -S mingw-w64-x86_64-libgnurx
+
 Executando os testes
       
       Para Executar os testes deve ter instalado (WSL ou o Windows Subsystem para Linux, para execução dos shell scripts).

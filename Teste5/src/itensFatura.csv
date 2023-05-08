@@ -1,0 +1,5 @@
+ItensFatura;;;
+IdFatura(PK);IdItem(PK);ValorItem;Descripcao
+1;1;10;Servico 1
+1;2;14;Servico 2
+2;1;12;Servico 3

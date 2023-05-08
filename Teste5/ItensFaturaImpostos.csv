@@ -1,0 +1,8 @@
+ItensFaturaImpostos;;;
+IdFatura(PK);IdItem(PK);Imposto(PK);Valor
+1;1;ISS;1
+1;1;PIS;0,5
+1;2;ISS;1,5
+1;2;PIS;0,7
+2;1;ISS;1,2
+2;1;ISS;0,6
